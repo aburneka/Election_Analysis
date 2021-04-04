@@ -16,21 +16,39 @@ A Colorado Board of Elections employee has requestedd that the following tasks b
 
 ## Summary
 
-The analysis of the election shows the following: 
-* There were "x" votes cast in the election. 
-* The candidates were: 
+**The analysis of the election shows the following:** 
+* There were 369,711 votes cast in the election. 
+* **The candidates were:** 
     * Charles Casper Stockham 
     * Diana DeGette 
     * Raymon Anthony Doane
-* The candidate results were: 
+* **The candidate results were: 
     * Charles Casper Stockham received 23% of the vote and 85,213 number of votes. 
     * Diana DeGette received 73.8% of the vote and 272,892 number of votes.
     * Raymon Anthony Doane received 3.1%% of the vote and 11,606 number of votes.
- * The **winner** of the election was: 
+ * **The winner of the election was:** 
     * Candidate **Diana DeGette** who received **73.8%** of the vote and **272,892** number of votes. 
 
 ## Challenge Overview 
-=======
+The employee from the Colorado Board of Elections has also requested analysis of votes by county. This included calcultions of the following: 
+
+   * Number of votes by county
+   * Percentage of votes by county 
+   * County with the highest number of votes
+
+## Challenge Summary
+
+* Total votes by county: 
+   * Jefferson county received  10.5% of the vote with 38,855 votes. 
+   * Denver county received 82.% of the vote with 306,055 votes. 
+   * Arapahoe county received 6.7% of the vote with 24,801 votes. 
+
+Denver county had the highest number of votes. 
+
+## Election-Audit Summary 
+The script provided to the Colorado Board of Elections can be used in future elections with the ability to obtain more voter information, such as demopgraphics or party affiliation. 
+
+The code as it is now, can only slice one set of parameters dditional script such as, nested if-else statements, could be included to explore voter turnout by age group.
 
 
 Text File: 
