@@ -1,5 +1,5 @@
 # Election_Analysis
-<<<<<<< HEAD
+
 ## Project Overview 
 A Colorado Board of Elections employee has requestedd that the following tasks be completed in order to complete the election audit of a recent local congressional election: 
 
@@ -14,9 +14,10 @@ Data Sources: election_results.csv
 Software: Python 3.9.2, Visual Studio Code, 1.54.3
 
 ##Summary
+
 The analysis of the election shows the following: 
--There were "x" votes cast in the election. 
--The candidates were: 
+- There were "x" votes cast in the election. 
+- The candidates were: 
     -Charles Casper Stockham 
     -Diana DeGette 
     -Raymon Anthony Doane
