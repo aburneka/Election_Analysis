@@ -1,4 +1,3 @@
-<img width="455" alt="Terminal Results" src="https://user-images.githubusercontent.com/79999761/113524427-7c05fc00-9563-11eb-9a94-0ac755c06b0e.png">
 # Election_Analysis
 
 ## Project Overview 
@@ -58,5 +57,5 @@ https://github.com/aburneka/Election_Analysis/blob/main/analysis/election_analys
 
 ![image](https://user-images.githubusercontent.com/79999761/113524453-98099d80-9563-11eb-81cc-44b0b011a47d.png)
 
-
+<img width="455" alt="Terminal Results" src="https://user-images.githubusercontent.com/79999761/113524427-7c05fc00-9563-11eb-9a94-0ac755c06b0e.png">
 
