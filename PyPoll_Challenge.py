@@ -48,7 +48,7 @@ with open(file_to_load) as election_data:
         candidate_name = row[2]
 
         # 3: Extract the county name from each row.
-        county_name = row[1]
+        county_name = row[1}]
 
         # If the candidate does not match any existing candidate add it to the candidate list
         if candidate_name not in candidate_options:
