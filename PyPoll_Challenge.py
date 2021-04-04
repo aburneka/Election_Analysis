@@ -75,6 +75,7 @@ with open(file_to_load) as election_data:
         county_votes[county_name] += 1
 
 
+
 # Save the results to our text file.
 with open(file_to_save, "w") as txt_file:
 
