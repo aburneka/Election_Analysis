@@ -1,4 +1,5 @@
 # Election_Analysis
+<<<<<<< HEAD
 ## Project Overview 
 A Colorado Board of Elections employee has requestedd that the following tasks be completed in order to complete the election audit of a recent local congressional election: 
 
@@ -21,3 +22,10 @@ The analysis of the election shows the following:
     -Raymon Anthony Doane
 -The candidate results were: 
     -
+=======
+
+
+Text File: 
+https://github.com/aburneka/Election_Analysis/blob/main/analysis/election_analysis.txt
+
+>>>>>>> b5bbd3d8137910d9db6b269506fc17bfeb4c2d2d
