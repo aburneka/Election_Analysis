@@ -13,18 +13,18 @@ A Colorado Board of Elections employee has requestedd that the following tasks b
 Data Sources: election_results.csv
 Software: Python 3.9.2, Visual Studio Code, 1.54.3
 
-##Summary
+## Summary
 
 The analysis of the election shows the following: 
-- There were "x" votes cast in the election. 
-- The candidates were: 
-    -Charles Casper Stockham 
-    -Diana DeGette 
-    -Raymon Anthony Doane
--The candidate results were: 
-    -Charles Casper Stockham received 23% of the vote and 85,213 number of votes. 
-    -Diana DeGette received 73.8% of the vote and 272,892 number of votes.
-    -Raymon Anthony Doane received 3.1%% of the vote and 11,606 number of votes.
+* There were "x" votes cast in the election. 
+* The candidates were: 
+    * Charles Casper Stockham 
+    * Diana DeGette 
+    * Raymon Anthony Doane
+- The candidate results were: 
+    - Charles Casper Stockham received 23% of the vote and 85,213 number of votes. 
+    - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+    - Raymon Anthony Doane received 3.1%% of the vote and 11,606 number of votes.
 -The winner of the election was: 
     -Candidate Diana DeGette who received 73.8% of the vote and 272,892 number of votes. 
 
