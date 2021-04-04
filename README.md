@@ -54,11 +54,5 @@ Additional script such as, if -elif-else statements or nested loops, could be in
 Text File for Election Results: 
 https://github.com/aburneka/Election_Analysis/blob/main/analysis/election_analysis.txt
 
-Election Results: 
 
-![image](https://user-images.githubusercontent.com/79999761/113524489-e3bc4700-9563-11eb-8220-e2615303f3fd.png)
-
-Terminal Election Results: 
-
-<img width="455" alt="Terminal Results" src="https://user-images.githubusercontent.com/79999761/113524427-7c05fc00-9563-11eb-9a94-0ac755c06b0e.png">
 
