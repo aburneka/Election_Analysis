@@ -46,12 +46,12 @@ The employee from the Colorado Board of Elections has also requested analysis of
 Denver county had the highest number of votes. 
 
 ## Election-Audit Summary 
-The script provided to the Colorado Board of Elections can be used in future elections with the ability to obtain more voter information, such as demopgraphics or party affiliation. 
+The script provided to the Colorado Board of Elections can be used in future elections with the ability to obtain more voter information given additional data. New variables such as party affiliation or demographic information can be added and examined using the script in it's current state. 
 
-The code as it is now, can only slice one set of parameters dditional script such as, nested if-else statements, could be included to explore voter turnout by age group.
+Additional script such as, if -elif-else statements or nested loops, could be included to explore voter turnout by age group or income ranges, which would be useful for candidates as well as the board of elections.
 
 
-Text File: 
+Text File for Election Results: 
 https://github.com/aburneka/Election_Analysis/blob/main/analysis/election_analysis.txt
 
 
