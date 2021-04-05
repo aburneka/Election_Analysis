@@ -17,6 +17,7 @@ total_votes = 0
 candidate_options = []
 candidate_votes = {}
 
+
 # 1: Create a county list and county votes dictionary.
 county_options = []
 county_votes = {}
